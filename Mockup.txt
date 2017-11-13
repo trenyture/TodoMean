@@ -1,0 +1,8 @@
+Todo list
+-------------------
+Express Generateur 
+Nouveau projet avec Bootstrap
+Permettre d'envoyer des todoList avec un statut.
+Jauery permettant de modifier le statut
+Pas de BD
+Utiliser EJS
